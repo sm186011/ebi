@@ -37,6 +37,8 @@
 </head>
 
 
+
+
 <body class="nav-md">
 
     <div class="container body">
@@ -70,73 +72,7 @@
 
                         <div class="menu_section">
                             <h3>People working under main name</h3>
-                            <ul class="nav side-menu">
-                                <li><a>name2 <span class="fa fa-chevron-down"></span></a>
-                                    <ul class="nav child_menu" style="display: none">
-                                        <li>submenu
-                                        </li>
-                                        <li>submenu
-                                        </li>
-                                        <li>submenu
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li><a>name3 <span class="fa fa-chevron-down"></span></a>
-                                    <ul class="nav child_menu" style="display: none">
-                                        <li>submenu
-                                        </li>
-                                        <li>submenu
-                                        </li>
-                                        <li>submenu
-                                        </li>
-                                    </ul>
-                                </li> <li><a>name3 <span class="fa fa-chevron-down"></span></a>
-                                    <ul class="nav child_menu" style="display: none">
-                                        <li>submenu
-                                        </li>
-                                        <li>submenu
-                                        </li>
-                                        <li>submenu
-                                        </li>
-                                    </ul>
-                                </li> <li><a>name4 <span class="fa fa-chevron-down"></span></a>
-                                    <ul class="nav child_menu" style="display: none">
-                                        <li>submenu
-                                        </li>
-                                        <li>submenu
-                                        </li>
-                                        <li>submenu
-                                        </li>
-                                    </ul>
-                                </li> <li><a>name5 <span class="fa fa-chevron-down"></span></a>
-                                    <ul class="nav child_menu" style="display: none">
-                                        <li>submenu
-                                        </li>
-                                        <li>submenu
-                                        </li>
-                                        <li>submenu
-                                        </li>
-                                    </ul>
-                                </li> <li><a>name6 <span class="fa fa-chevron-down"></span></a>
-                                    <ul class="nav child_menu" style="display: none">
-                                        <li>submenu
-                                        </li>
-                                        <li>submenu
-                                        </li>
-                                        <li>submenu
-                                        </li>
-                                    </ul>
-                                </li> <li><a>name7 <span class="fa fa-chevron-down"></span></a>
-                                    <ul class="nav child_menu" style="display: none">
-                                        <li>submenu
-                                        </li>
-                                        <li>submenu
-                                        </li>
-                                        <li>submenu
-                                        </li>
-                                    </ul>
-                                
-                               
+                            <ul class="nav side-menu" id="emplist">
                             </ul>
                         </div>
 
@@ -263,8 +199,32 @@
 
             </div>
             <!-- /page content -->
-       
 
+    <script>
+        $(document).ready(function() {
+
+
+            $.getJSON('employeeleveldata.json', function (data) {
+                var count = 0;
+                var List = [];
+                $.each(data, function (key, value) {
+                    if (value.emplevel == 1) {
+                        List.push('<li><a>' + value.INDIV_FULL_NM + '<span class="fa fa-chevron-down"></span></a></li><ul id='+ value.WORKER_PARTY_ID +' class="nav child_menu" style="display: true"></ul></li>');
+                        $("ul#emplist").append(List);
+                        List = [];
+                    }
+                    else
+                    {
+                        List.push('<li id="' + value.WORKER_PARTY_ID + '">' + value.INDIV_FULL_NM + '</li>');
+                        $("#"+value.SUPERVISOR_PARTY_ID).append(List);
+                        List=[];
+                    }
+                });
+                //$("ul#emplist").append(List);
+            });
+
+        });
+    </script>
 
 
     <script src="js/bootstrap.min.js"></script>

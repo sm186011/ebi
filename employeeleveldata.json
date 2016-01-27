@@ -1,0 +1,1366 @@
+
+
+[
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07642",
+
+      "WORKER_PARTY_ID": "C8032",
+
+      "INDIV_FULL_NM": "Bynum, Clayton  ",
+
+      "SUPERVISOR_PARTY_ID": "45243",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 1
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07869",
+
+      "WORKER_PARTY_ID": "93278",
+
+      "INDIV_FULL_NM": "Hollinger, Marie E",
+
+      "SUPERVISOR_PARTY_ID": "45243",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 1
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07870",
+
+      "WORKER_PARTY_ID": "60476",
+
+      "INDIV_FULL_NM": "Woehrle, Judd C",
+
+      "SUPERVISOR_PARTY_ID": "45243",
+
+      "job_description": "I/T Technical Dir",
+
+      "emplevel": 1
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07930",
+
+      "WORKER_PARTY_ID": "46432",
+
+      "INDIV_FULL_NM": "Lotts, Gary W",
+
+      "SUPERVISOR_PARTY_ID": "45243",
+
+      "job_description": "AVP Applctns Dev",
+
+      "emplevel": 1
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07801",
+
+      "WORKER_PARTY_ID": "84202",
+
+      "INDIV_FULL_NM": "Pansini, Michael  ",
+
+      "SUPERVISOR_PARTY_ID": "45243",
+
+      "job_description": "VP Information Technology",
+
+      "emplevel": 1
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07868",
+
+      "WORKER_PARTY_ID": "37370",
+
+      "INDIV_FULL_NM": "Renouf, Michael  ",
+
+      "SUPERVISOR_PARTY_ID": "45243",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 1
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07867",
+
+      "WORKER_PARTY_ID": "38199",
+
+      "INDIV_FULL_NM": "Spencer, David A",
+
+      "SUPERVISOR_PARTY_ID": "45243",
+
+      "job_description": "I/T Technical Dir",
+
+      "emplevel": 1
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07888",
+
+      "WORKER_PARTY_ID": "D5998",
+
+      "INDIV_FULL_NM": "Garza, DiAnne  ",
+
+      "SUPERVISOR_PARTY_ID": "45243",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 1
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07900",
+
+      "WORKER_PARTY_ID": "95079",
+
+      "INDIV_FULL_NM": "Stallings, Herry  ",
+
+      "SUPERVISOR_PARTY_ID": "45243",
+
+      "job_description": "AVP Applctns Dev",
+
+      "emplevel": 1
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07889",
+
+      "WORKER_PARTY_ID": "D4763",
+
+      "INDIV_FULL_NM": "Desani, Swapna  ",
+
+      "SUPERVISOR_PARTY_ID": "45243",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 1
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07891",
+
+      "WORKER_PARTY_ID": "33456",
+
+      "INDIV_FULL_NM": "Yndo, Cheryl Yvette",
+
+      "SUPERVISOR_PARTY_ID": "45243",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 1
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07851",
+
+      "WORKER_PARTY_ID": "27702",
+
+      "INDIV_FULL_NM": "Woodworth, Terry A",
+
+      "SUPERVISOR_PARTY_ID": "45243",
+
+      "job_description": "AVP Applctns Dev",
+
+      "emplevel": 1
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "5333",
+
+      "WORKER_PARTY_ID": "45229",
+
+      "INDIV_FULL_NM": "Deering, Augustine Joseph",
+
+      "SUPERVISOR_PARTY_ID": "45243",
+
+      "job_description": "AVP Applctns Dev",
+
+      "emplevel": 1
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "5333",
+
+      "WORKER_PARTY_ID": "69863",
+
+      "INDIV_FULL_NM": "Mark Blazek",
+
+      "SUPERVISOR_PARTY_ID": "45243",
+
+      "job_description": "AVP Applctns Dev",
+
+      "emplevel": 1
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "10042",
+
+      "WORKER_PARTY_ID": "91146",
+
+      "INDIV_FULL_NM": "Gadban, Cynthia A",
+
+      "SUPERVISOR_PARTY_ID": "69863",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "10041",
+
+      "WORKER_PARTY_ID": "45234",
+
+      "INDIV_FULL_NM": "Banks, Brianna Michelle",
+
+      "SUPERVISOR_PARTY_ID": "69863",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "10043",
+
+      "WORKER_PARTY_ID": "69519",
+
+      "INDIV_FULL_NM": "Ituarte, Rama  ",
+
+      "SUPERVISOR_PARTY_ID": "69863",
+
+      "job_description": "I/T Technical Dir",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "10044",
+
+      "WORKER_PARTY_ID": "67443",
+
+      "INDIV_FULL_NM": "Gibbens, Daryle G",
+
+      "SUPERVISOR_PARTY_ID": "69863",
+
+      "job_description": "I/T Technical Dir",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "10073",
+
+      "WORKER_PARTY_ID": "27223",
+
+      "INDIV_FULL_NM": "Todd, Randy W",
+
+      "SUPERVISOR_PARTY_ID": "69863",
+
+      "job_description": "I/T Technical Dir",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "10045",
+
+      "WORKER_PARTY_ID": "F3197",
+
+      "INDIV_FULL_NM": "Aguilar, Melissa S",
+
+      "SUPERVISOR_PARTY_ID": "69863",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "05349",
+
+      "WORKER_PARTY_ID": "E6942",
+
+      "INDIV_FULL_NM": "Yacullo, Melinda M",
+
+      "SUPERVISOR_PARTY_ID": "45229",
+
+      "job_description": "Dir Oprtnl Excellence",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "05337",
+
+      "WORKER_PARTY_ID": "50916",
+
+      "INDIV_FULL_NM": "Irons, Elaine M",
+
+      "SUPERVISOR_PARTY_ID": "45229",
+
+      "job_description": "Director Process Excellence",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "05338",
+
+      "WORKER_PARTY_ID": "88561",
+
+      "INDIV_FULL_NM": "Bohannon, Alan L",
+
+      "SUPERVISOR_PARTY_ID": "45229",
+
+      "job_description": "Director Process Excellence",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "05356",
+
+      "WORKER_PARTY_ID": "43389",
+
+      "INDIV_FULL_NM": "Quinn, Bethany L",
+
+      "SUPERVISOR_PARTY_ID": "45229",
+
+      "job_description": "Dir Oprtnl Excellence",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "05340",
+
+      "WORKER_PARTY_ID": "G2237",
+
+      "INDIV_FULL_NM": "Rose, John D",
+
+      "SUPERVISOR_PARTY_ID": "45229",
+
+      "job_description": "Director Process Excellence",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07860",
+
+      "WORKER_PARTY_ID": "45478",
+
+      "INDIV_FULL_NM": "Mascorro, Daniel G",
+
+      "SUPERVISOR_PARTY_ID": "27702",
+
+      "job_description": "I/T Technical Dir",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07857",
+
+      "WORKER_PARTY_ID": "49949",
+
+      "INDIV_FULL_NM": "Gilliland, David  ",
+
+      "SUPERVISOR_PARTY_ID": "27702",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07852",
+
+      "WORKER_PARTY_ID": "41430",
+
+      "INDIV_FULL_NM": "Fierro Jr, Norberto  ",
+
+      "SUPERVISOR_PARTY_ID": "27702",
+
+      "job_description": "I/T Technical Dir",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07859",
+
+      "WORKER_PARTY_ID": "25402",
+
+      "INDIV_FULL_NM": "Ellis, Danny D",
+
+      "SUPERVISOR_PARTY_ID": "27702",
+
+      "job_description": "I/T Technical Dir",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07912",
+
+      "WORKER_PARTY_ID": "L5485",
+
+      "INDIV_FULL_NM": "Barry, Christopher T",
+
+      "SUPERVISOR_PARTY_ID": "95079",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07918",
+
+      "WORKER_PARTY_ID": "83925",
+
+      "INDIV_FULL_NM": "D'Agostino, Jim Arthur",
+
+      "SUPERVISOR_PARTY_ID": "95079",
+
+      "job_description": "I/T Technical Dir",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07924",
+
+      "WORKER_PARTY_ID": "B0274",
+
+      "INDIV_FULL_NM": "Buntin, Calvin J",
+
+      "SUPERVISOR_PARTY_ID": "95079",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07908",
+
+      "WORKER_PARTY_ID": "K6157",
+
+      "INDIV_FULL_NM": "Delon, Charlotte J",
+
+      "SUPERVISOR_PARTY_ID": "95079",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07902",
+
+      "WORKER_PARTY_ID": "F9569",
+
+      "INDIV_FULL_NM": "Harlen, John P",
+
+      "SUPERVISOR_PARTY_ID": "95079",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07904",
+
+      "WORKER_PARTY_ID": "65857",
+
+      "INDIV_FULL_NM": "Hager, Sean  ",
+
+      "SUPERVISOR_PARTY_ID": "95079",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07914",
+
+      "WORKER_PARTY_ID": "D1491",
+
+      "INDIV_FULL_NM": "Ririe, Alisha  ",
+
+      "SUPERVISOR_PARTY_ID": "95079",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07906",
+
+      "WORKER_PARTY_ID": "57007",
+
+      "INDIV_FULL_NM": "Syamken, Brian Wayne",
+
+      "SUPERVISOR_PARTY_ID": "95079",
+
+      "job_description": "Ex Dir Applctns Dev",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07809",
+
+      "WORKER_PARTY_ID": "M7978",
+
+      "INDIV_FULL_NM": "Lee, Rebekah L",
+
+      "SUPERVISOR_PARTY_ID": "84202",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07802",
+
+      "WORKER_PARTY_ID": "55345",
+
+      "INDIV_FULL_NM": "Bubela, Kenan  ",
+
+      "SUPERVISOR_PARTY_ID": "84202",
+
+      "job_description": "Ex Dir Applctns Dev",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07812",
+
+      "WORKER_PARTY_ID": "40150",
+
+      "INDIV_FULL_NM": "Bush, Craig M",
+
+      "SUPERVISOR_PARTY_ID": "84202",
+
+      "job_description": "AVP Info Sys Arch",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07810",
+
+      "WORKER_PARTY_ID": "91491",
+
+      "INDIV_FULL_NM": "Phelps III, Jerry A",
+
+      "SUPERVISOR_PARTY_ID": "84202",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07823",
+
+      "WORKER_PARTY_ID": "90776",
+
+      "INDIV_FULL_NM": "Krzywonski, Yvonne M",
+
+      "SUPERVISOR_PARTY_ID": "84202",
+
+      "job_description": "Ex Dir Applctns Dev",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07944",
+
+      "WORKER_PARTY_ID": "E1576",
+
+      "INDIV_FULL_NM": "Ready, Marcus  ",
+
+      "SUPERVISOR_PARTY_ID": "46432",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07946",
+
+      "WORKER_PARTY_ID": "F4253",
+
+      "INDIV_FULL_NM": "Ortenzio, Monica  ",
+
+      "SUPERVISOR_PARTY_ID": "46432",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07947",
+
+      "WORKER_PARTY_ID": "M6698",
+
+      "INDIV_FULL_NM": "Le, Quyet C",
+
+      "SUPERVISOR_PARTY_ID": "46432",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07931",
+
+      "WORKER_PARTY_ID": "80697",
+
+      "INDIV_FULL_NM": "Lagoudis, Robert D",
+
+      "SUPERVISOR_PARTY_ID": "46432",
+
+      "job_description": "ED IT Business Management",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07941",
+
+      "WORKER_PARTY_ID": "45859",
+
+      "INDIV_FULL_NM": "Matthews, Robert Clayton",
+
+      "SUPERVISOR_PARTY_ID": "46432",
+
+      "job_description": "I/T Technical Dir",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07872",
+
+      "WORKER_PARTY_ID": "32646",
+
+      "INDIV_FULL_NM": "Connolly Jr, Billy Ray",
+
+      "SUPERVISOR_PARTY_ID": "60476",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07873",
+
+      "WORKER_PARTY_ID": "86309",
+
+      "INDIV_FULL_NM": "Arguello, Erica A",
+
+      "SUPERVISOR_PARTY_ID": "60476",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07883",
+
+      "WORKER_PARTY_ID": "83018",
+
+      "INDIV_FULL_NM": "Flores, David Alonso",
+
+      "SUPERVISOR_PARTY_ID": "60476",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07885",
+
+      "WORKER_PARTY_ID": "80442",
+
+      "INDIV_FULL_NM": "Hewett, Michael S",
+
+      "SUPERVISOR_PARTY_ID": "60476",
+
+      "job_description": "I/T Technical Dir",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07882",
+
+      "WORKER_PARTY_ID": "35403",
+
+      "INDIV_FULL_NM": "Hayden, Patricia A",
+
+      "SUPERVISOR_PARTY_ID": "60476",
+
+      "job_description": "I/T Technical Dir",
+
+      "emplevel": 2
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07806",
+
+      "WORKER_PARTY_ID": "48048",
+
+      "INDIV_FULL_NM": "Ortiz, Paul E",
+
+      "SUPERVISOR_PARTY_ID": "55345",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07805",
+
+      "WORKER_PARTY_ID": "L0446",
+
+      "INDIV_FULL_NM": "Mattes, Raymond G",
+
+      "SUPERVISOR_PARTY_ID": "55345",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07808",
+
+      "WORKER_PARTY_ID": "64922",
+
+      "INDIV_FULL_NM": "Newsom, Cory L",
+
+      "SUPERVISOR_PARTY_ID": "55345",
+
+      "job_description": "I/T Technical Dir",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07803",
+
+      "WORKER_PARTY_ID": "29764",
+
+      "INDIV_FULL_NM": "Hidalgo, Anthony  ",
+
+      "SUPERVISOR_PARTY_ID": "55345",
+
+      "job_description": "I/T Technical Dir",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07804",
+
+      "WORKER_PARTY_ID": "64849",
+
+      "INDIV_FULL_NM": "Maldonado, Abram A",
+
+      "SUPERVISOR_PARTY_ID": "55345",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07943",
+
+      "WORKER_PARTY_ID": "35795",
+
+      "INDIV_FULL_NM": "Weatherspoon, Carnell  ",
+
+      "SUPERVISOR_PARTY_ID": "45859",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07942",
+
+      "WORKER_PARTY_ID": "H4140",
+
+      "INDIV_FULL_NM": "Horne, Kevin B",
+
+      "SUPERVISOR_PARTY_ID": "45859",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07945",
+
+      "WORKER_PARTY_ID": "67814",
+
+      "INDIV_FULL_NM": "Medina, Nancy Belen",
+
+      "SUPERVISOR_PARTY_ID": "45859",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07932",
+
+      "WORKER_PARTY_ID": "63953",
+
+      "INDIV_FULL_NM": "Thompson, Mark R",
+
+      "SUPERVISOR_PARTY_ID": "80697",
+
+      "job_description": "I/T Technical Dir",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07937",
+
+      "WORKER_PARTY_ID": "65463",
+
+      "INDIV_FULL_NM": "Knudson, Erik B",
+
+      "SUPERVISOR_PARTY_ID": "80697",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07744",
+
+      "WORKER_PARTY_ID": "61554",
+
+      "INDIV_FULL_NM": "LeBlanc, Derek J",
+
+      "SUPERVISOR_PARTY_ID": "80697",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07933",
+
+      "WORKER_PARTY_ID": "61485",
+
+      "INDIV_FULL_NM": "Orey, Kevin A",
+
+      "SUPERVISOR_PARTY_ID": "80697",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07938",
+
+      "WORKER_PARTY_ID": "H2536",
+
+      "INDIV_FULL_NM": "Kemp, Mesha B",
+
+      "SUPERVISOR_PARTY_ID": "80697",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07828",
+
+      "WORKER_PARTY_ID": "B0619",
+
+      "INDIV_FULL_NM": "Gregory, Mark S",
+
+      "SUPERVISOR_PARTY_ID": "90776",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07826",
+
+      "WORKER_PARTY_ID": "43085",
+
+      "INDIV_FULL_NM": "Davis, Brenda Burris",
+
+      "SUPERVISOR_PARTY_ID": "90776",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07824",
+
+      "WORKER_PARTY_ID": "25859",
+
+      "INDIV_FULL_NM": "Gutierrez, Kim A",
+
+      "SUPERVISOR_PARTY_ID": "90776",
+
+      "job_description": "I/T Technical Dir",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07814",
+
+      "WORKER_PARTY_ID": "81586",
+
+      "INDIV_FULL_NM": "Edwards, Michael L",
+
+      "SUPERVISOR_PARTY_ID": "40150",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07813",
+
+      "WORKER_PARTY_ID": "69479",
+
+      "INDIV_FULL_NM": "Elkin, Joshua Daniel",
+
+      "SUPERVISOR_PARTY_ID": "40150",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07819",
+
+      "WORKER_PARTY_ID": "65415",
+
+      "INDIV_FULL_NM": "O'Leary, James Ryan",
+
+      "SUPERVISOR_PARTY_ID": "40150",
+
+      "job_description": "I/T Technical Dir",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07815",
+
+      "WORKER_PARTY_ID": "28138",
+
+      "INDIV_FULL_NM": "Feser, Karen M",
+
+      "SUPERVISOR_PARTY_ID": "40150",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07910",
+
+      "WORKER_PARTY_ID": "58405",
+
+      "INDIV_FULL_NM": "Kennedy, Marisela  ",
+
+      "SUPERVISOR_PARTY_ID": "57007",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07913",
+
+      "WORKER_PARTY_ID": "90201",
+
+      "INDIV_FULL_NM": "Ottley, Paul B",
+
+      "SUPERVISOR_PARTY_ID": "57007",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07920",
+
+      "WORKER_PARTY_ID": "45853",
+
+      "INDIV_FULL_NM": "Le, Thi D",
+
+      "SUPERVISOR_PARTY_ID": "83925",
+
+      "job_description": "I/T Technical Dir",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07922",
+
+      "WORKER_PARTY_ID": "69602",
+
+      "INDIV_FULL_NM": "Neal, Matthew Robert",
+
+      "SUPERVISOR_PARTY_ID": "83925",
+
+      "job_description": "I/T Technical Dir",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07863",
+
+      "WORKER_PARTY_ID": "81894",
+
+      "INDIV_FULL_NM": "Lazarus, Noam  ",
+
+      "SUPERVISOR_PARTY_ID": "45478",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07864",
+
+      "WORKER_PARTY_ID": "K6940",
+
+      "INDIV_FULL_NM": "Huggar, Stacy C",
+
+      "SUPERVISOR_PARTY_ID": "45478",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07862",
+
+      "WORKER_PARTY_ID": "K3763",
+
+      "INDIV_FULL_NM": "Khansary, Mark  ",
+
+      "SUPERVISOR_PARTY_ID": "45478",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07861",
+
+      "WORKER_PARTY_ID": "F1283",
+
+      "INDIV_FULL_NM": "Ault, David C",
+
+      "SUPERVISOR_PARTY_ID": "45478",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 3
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07822",
+
+      "WORKER_PARTY_ID": "82905",
+
+      "INDIV_FULL_NM": "Patel, Jiten B",
+
+      "SUPERVISOR_PARTY_ID": "65415",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 4
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07820",
+
+      "WORKER_PARTY_ID": "38545",
+
+      "INDIV_FULL_NM": "Taylor, Gregory J",
+
+      "SUPERVISOR_PARTY_ID": "65415",
+
+      "job_description": "I/T Technical Dir",
+
+      "emplevel": 4
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07821",
+
+      "WORKER_PARTY_ID": "K6961",
+
+      "INDIV_FULL_NM": "Gregg, Denise M",
+
+      "SUPERVISOR_PARTY_ID": "65415",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 4
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "10214",
+
+      "WORKER_PARTY_ID": "42031",
+
+      "INDIV_FULL_NM": "Pena, Martha A",
+
+      "SUPERVISOR_PARTY_ID": "64922",
+
+      "job_description": "I/T Technical Dir",
+
+      "emplevel": 4
+
+   },
+
+   {
+
+      "ORGANIZATION_UNIT_CD": "07811",
+
+      "WORKER_PARTY_ID": "41865",
+
+      "INDIV_FULL_NM": "Woods, Bianca D",
+
+      "SUPERVISOR_PARTY_ID": "64922",
+
+      "job_description": "I/T Technical Mgr",
+
+      "emplevel": 4
+
+   }
+
+]
+
